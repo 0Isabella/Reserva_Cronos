@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Reservas_Cronos\\Reservas_Cronos.csproj": {}
+    "D:\\Terceiro Semestre\\Desenvolvimento de Software Visual\\ReservasCronos\\Reserva_Cronos\\Reservas_Cronos.csproj": {}
   },
   "projects": {
-    "D:\\Reservas_Cronos\\Reservas_Cronos.csproj": {
+    "D:\\Terceiro Semestre\\Desenvolvimento de Software Visual\\ReservasCronos\\Reserva_Cronos\\Reservas_Cronos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Reservas_Cronos\\Reservas_Cronos.csproj",
+        "projectUniqueName": "D:\\Terceiro Semestre\\Desenvolvimento de Software Visual\\ReservasCronos\\Reserva_Cronos\\Reservas_Cronos.csproj",
         "projectName": "Reservas_Cronos",
-        "projectPath": "D:\\Reservas_Cronos\\Reservas_Cronos.csproj",
-        "packagesPath": "C:\\Users\\0isam\\.nuget\\packages\\",
-        "outputPath": "D:\\Reservas_Cronos\\obj\\",
+        "projectPath": "D:\\Terceiro Semestre\\Desenvolvimento de Software Visual\\ReservasCronos\\Reserva_Cronos\\Reservas_Cronos.csproj",
+        "packagesPath": "C:\\Users\\ISABELLAAPARECIDADEM\\.nuget\\packages\\",
+        "outputPath": "D:\\Terceiro Semestre\\Desenvolvimento de Software Visual\\ReservasCronos\\Reserva_Cronos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\0isam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ISABELLAAPARECIDADEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -61,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

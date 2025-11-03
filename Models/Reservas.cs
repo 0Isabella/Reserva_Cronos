@@ -1,6 +1,5 @@
-namespace CronosReferencia.Models
+namespace CronosReserva.Models
 {
-
     public class Reserva
         {
             public int Id { get; set; }

@@ -49,3 +49,29 @@ D:\Reservas_Cronos\obj\Debug\net7.0\refint\Reservas_Cronos.dll
 D:\Reservas_Cronos\obj\Debug\net7.0\Reservas_Cronos.pdb
 D:\Reservas_Cronos\obj\Debug\net7.0\Reservas_Cronos.genruntimeconfig.cache
 D:\Reservas_Cronos\obj\Debug\net7.0\ref\Reservas_Cronos.dll
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.csproj.AssemblyReference.cache
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.AssemblyInfoInputs.cache
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.AssemblyInfo.cs
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.csproj.CoreCompileInputs.cache
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.MvcApplicationPartsAssemblyInfo.cache
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.dll
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\refint\Reservas_Cronos.dll
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.pdb
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\bin\Debug\net7.0\appsettings.Development.json
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\bin\Debug\net7.0\appsettings.json
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\bin\Debug\net7.0\Reservas_Cronos.exe
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\bin\Debug\net7.0\Reservas_Cronos.deps.json
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\bin\Debug\net7.0\Reservas_Cronos.runtimeconfig.json
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\bin\Debug\net7.0\Reservas_Cronos.dll
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\bin\Debug\net7.0\Reservas_Cronos.pdb
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\staticwebassets\msbuild.Reservas_Cronos.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\staticwebassets\msbuild.build.Reservas_Cronos.props
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Reservas_Cronos.props
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Reservas_Cronos.props
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\staticwebassets.build.json
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\staticwebassets.development.json
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\scopedcss\bundle\Reservas_Cronos.styles.css
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.genruntimeconfig.cache
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\ref\Reservas_Cronos.dll
