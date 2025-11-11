@@ -49,7 +49,6 @@ D:\Reservas_Cronos\obj\Debug\net7.0\refint\Reservas_Cronos.dll
 D:\Reservas_Cronos\obj\Debug\net7.0\Reservas_Cronos.pdb
 D:\Reservas_Cronos\obj\Debug\net7.0\Reservas_Cronos.genruntimeconfig.cache
 D:\Reservas_Cronos\obj\Debug\net7.0\ref\Reservas_Cronos.dll
-D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.csproj.AssemblyReference.cache
 D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.GeneratedMSBuildEditorConfig.editorconfig
 D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.AssemblyInfoInputs.cache
 D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.AssemblyInfo.cs
@@ -75,3 +74,4 @@ D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_C
 D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\scopedcss\bundle\Reservas_Cronos.styles.css
 D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.genruntimeconfig.cache
 D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\ref\Reservas_Cronos.dll
+D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.sourcelink.json
