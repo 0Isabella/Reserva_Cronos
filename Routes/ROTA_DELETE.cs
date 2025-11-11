@@ -6,16 +6,18 @@ public static class ROTA_DELETE
 {
     public static void MapDeleteRoutes(this WebApplication app)
     {
-        List<Reserva> reservas = new List<Reserva>();
-
-        app.MapDelete("/api/reservas/{id}", (int id) =>
+        app.MapDelete("/reservas/{id}", async (int id, ReservasContext context) =>
         {
-            var refItem = reservas.FirstOrDefault(r => r.Id == id);
-            if (refItem is null)
+            var reserva = await context.Reservas.FindAsync{id};
+            var reserva = reservas.FirstOrDefault(r => r.Id == id);
+            if (reserva is null)
                 return Results.NotFound("Reserva não encontrada.");
 
-            reservas.Remove(refItem);
-            return Results.NoContent();
+            context.Reservas.Remove(reserva);
+
+            await context.SaveChangeAsync();
+            
+            return Results.Ok();
         });
     }
 }
