@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace ApiLivros.Models
+namespace CronosReserva.Models
 {
     public class ReservasContext : DbContext
     {
