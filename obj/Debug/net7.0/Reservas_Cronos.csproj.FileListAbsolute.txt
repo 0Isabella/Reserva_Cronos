@@ -75,3 +75,12 @@ D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_C
 D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.genruntimeconfig.cache
 D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\ref\Reservas_Cronos.dll
 D:\Terceiro Semestre\Desenvolvimento de Software Visual\ReservasCronos\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.sourcelink.json
+C:\Users\GUILHERMESWIATYIDOSS\Documents\GitHub\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.csproj.AssemblyReference.cache
+C:\Users\GUILHERMESWIATYIDOSS\Documents\GitHub\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILHERMESWIATYIDOSS\Documents\GitHub\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.AssemblyInfoInputs.cache
+C:\Users\GUILHERMESWIATYIDOSS\Documents\GitHub\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.AssemblyInfo.cs
+C:\Users\GUILHERMESWIATYIDOSS\Documents\GitHub\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERMESWIATYIDOSS\Documents\GitHub\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GUILHERMESWIATYIDOSS\Documents\GitHub\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.dll
+C:\Users\GUILHERMESWIATYIDOSS\Documents\GitHub\Reserva_Cronos\obj\Debug\net7.0\refint\Reservas_Cronos.dll
+C:\Users\GUILHERMESWIATYIDOSS\Documents\GitHub\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.pdb
