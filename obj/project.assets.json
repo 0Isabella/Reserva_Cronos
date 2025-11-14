@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\swiat\\.nuget\\packages\\": {}
+    "C:\\Users\\0isam\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\swiat\\Documents\\2.Faculdade\\3.Semestre\\Desenvolvimento de Software Visual\\Reserva_Cronos\\Reservas_Cronos.csproj",
+      "projectUniqueName": "D:\\Terceiro Semestre\\Desenvolvimento de Software Visual\\ReservasCronos\\Reserva_Cronos\\Reservas_Cronos.csproj",
       "projectName": "Reservas_Cronos",
-      "projectPath": "C:\\Users\\swiat\\Documents\\2.Faculdade\\3.Semestre\\Desenvolvimento de Software Visual\\Reserva_Cronos\\Reservas_Cronos.csproj",
-      "packagesPath": "C:\\Users\\swiat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\swiat\\Documents\\2.Faculdade\\3.Semestre\\Desenvolvimento de Software Visual\\Reserva_Cronos\\obj\\",
+      "projectPath": "D:\\Terceiro Semestre\\Desenvolvimento de Software Visual\\ReservasCronos\\Reserva_Cronos\\Reservas_Cronos.csproj",
+      "packagesPath": "C:\\Users\\0isam\\.nuget\\packages\\",
+      "outputPath": "D:\\Terceiro Semestre\\Desenvolvimento de Software Visual\\ReservasCronos\\Reserva_Cronos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\swiat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\0isam\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -62,16 +67,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\swiat\\Documents\\2.Faculdade\\3.Semestre\\Desenvolvimento de Software Visual\\Reserva_Cronos\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

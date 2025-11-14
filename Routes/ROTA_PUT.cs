@@ -6,11 +6,9 @@ public static class ROTA_PUT
 {
     public static void MapPutRoutes(this WebApplication app)
     {
-        List<Reserva> reservas = new List<Reserva>();
-
         app.MapPut("/reservas/{id}", (int id, Reserva atualizada) =>
         {
-            var refItem = reservas.FirstOrDefault(r => r.Id == id);
+            var refItem = Database.Reservas.FirstOrDefault(r => r.Id == id);
             if (refItem is null)
                 return Results.NotFound("Reserva não encontrada.");
 
@@ -23,7 +21,6 @@ public static class ROTA_PUT
             refItem.NomeLocal = atualizada.NomeLocal;
             refItem.ValorTotal = atualizada.ValorTotal;
             refItem.Descricao = atualizada.Descricao;
-
 
             return Results.Ok(refItem);
         });

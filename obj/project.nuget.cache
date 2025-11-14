@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LaHf6p4ih9u0jgjhDHCZlMV9WMdaWXgFMWjbiYodS2QHpufTdhic4CnyuA9jcPmKRpSPG+fbwToN+cqNH5G6rg==",
+  "dgSpecHash": "2KggWE7qQS4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\swiat\\Documents\\2.Faculdade\\3.Semestre\\Desenvolvimento de Software Visual\\Reserva_Cronos\\Reservas_Cronos.csproj",
+  "projectFilePath": "D:\\Terceiro Semestre\\Desenvolvimento de Software Visual\\ReservasCronos\\Reserva_Cronos\\Reservas_Cronos.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\swiat\\Documents\\2.Faculdade\\3.Semestre\\Desenvolvimento de Software Visual\\Reserva_Cronos\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

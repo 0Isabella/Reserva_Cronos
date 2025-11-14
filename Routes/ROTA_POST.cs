@@ -6,12 +6,10 @@ public static class ROTA_POST
 {
     public static void MapPostRoutes(this WebApplication app)
     {
-        List<Reserva> reservas = new List<Reserva>();
-
         app.MapPost("/reservas", (Reserva nova) =>
         {
-            nova.Id = reservas.Count + 1;
-            reservas.Add(nova);
+            nova.Id = Database.Reservas.Count + 1;
+            Database.Reservas.Add(nova);
             return Results.Created($"/api/reservas/{nova.Id}", nova);
         });
     }

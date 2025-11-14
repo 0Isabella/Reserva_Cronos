@@ -10,6 +10,8 @@ public static class ROTA_DELETE
 
         app.MapDelete("/reservas/{id}", (int id) =>
         {
+            var reservas = Database.Reservas;
+
             var refItem = reservas.FirstOrDefault(r => r.Id == id);
             if (refItem is null)
                 return Results.NotFound("Reserva não encontrada.");
