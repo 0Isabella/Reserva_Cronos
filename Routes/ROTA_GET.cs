@@ -92,9 +92,9 @@ public static class ROTA_GET
 
         app.MapGet("/", () => "CRONOS(API) de Reservas em funcionamento!");
 
-        app.MapGet("/api/reserva", () => reservas);
+        app.MapGet("/reserva", () => reservas);
 
-        app.MapGet("/api/reserva/{id}", (int id) =>
+        app.MapGet("/reserva/{id}", (int id) =>
         {
             var reserva = reservas.FirstOrDefault(r => r.Id == id);
             return reserva != null ? Results.Ok(reserva) : Results.NotFound("Reserva não encontrada.");

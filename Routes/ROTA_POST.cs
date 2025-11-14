@@ -8,7 +8,7 @@ public static class ROTA_POST
     {
         List<Reserva> reservas = new List<Reserva>();
 
-        app.MapPost("/api/reservas", (Reserva nova) =>
+        app.MapPost("/reservas", (Reserva nova) =>
         {
             nova.Id = reservas.Count + 1;
             reservas.Add(nova);

@@ -8,7 +8,7 @@ public static class ROTA_PUT
     {
         List<Reserva> reservas = new List<Reserva>();
 
-        app.MapPut("/api/reservas/{id}", (int id, Reserva atualizada) =>
+        app.MapPut("/reservas/{id}", (int id, Reserva atualizada) =>
         {
             var refItem = reservas.FirstOrDefault(r => r.Id == id);
             if (refItem is null)

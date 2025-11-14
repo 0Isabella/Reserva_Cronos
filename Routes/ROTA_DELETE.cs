@@ -8,7 +8,7 @@ public static class ROTA_DELETE
     {
         List<Reserva> reservas = new List<Reserva>();
 
-        app.MapDelete("/api/reservas/{id}", (int id) =>
+        app.MapDelete("/reservas/{id}", (int id) =>
         {
             var refItem = reservas.FirstOrDefault(r => r.Id == id);
             if (refItem is null)
