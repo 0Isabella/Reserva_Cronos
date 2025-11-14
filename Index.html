@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="pt-BR">
     <head>
         <meta charset="UTF-8" />
@@ -53,13 +53,23 @@
                 unicode-bidi: isolate;
                 border-spacing: 2px;
                 border-color: gray;
+                transform: translateX(50%);
+            }
+
+            .boasvindas
+            {
+                text-align: center;
+            }
+
+            h2
+            {
+                text-align: center;
             }
 
             th 
             {
                 border: 1px solid #000000;
                 padding: 10px;
-                text-align: left;
                 background-color: #817979;
             }
         </style>
@@ -68,9 +78,10 @@
         <header>
             <div class="welcome">
                 <img style="width: 10%;" src="/imagem/Logo Cronos.jpeg">
-                <h1 style="text-align: center;">Bem-vindo ao Reservas Cronos!</h1>
             </div>
+            <h1 class="boasvindas">Bem-vindo ao Reservas Cronos!</h1>
         </header>
+<<<<<<< HEAD
 
        <div class="cadastro">
         <h2>Nova Reserva</h2>
@@ -169,6 +180,24 @@
                 <button class="btn-success" onclick="adicionarOuAtualizarReserva()">Confirar Reserva</button>
         </div>
 
+=======
+            <div class="card">
+            <h2>Buscar Referências</h2>
+            <input id="filtroId" placeholder="ID" type="number" />
+            <input id="filtroNome" placeholder="Nome" />
+            <input id="filtroTelefone" placeholder="Telefone" />
+            <input id="filtroDataInicio" placeholder="Ano" type="number" />
+            <input id="filtroDataFim" placeholder="Ano" type="number" />
+            <input id="filtroTamanho" placeholder="number" />
+            <input id="filtroNomeLocal" placeholder="local" />
+            <input id="filtroValor" placeholder="valor" type="number" />
+            <input id="filtroDescricao" placeholder="Descricao" />
+            
+            </select>
+            <button class="btn-primary" onclick="filtrarLivros()">Pesquisar</button>
+            <button class="btn-warning" onclick="limparFiltros()">Limpar</button>
+        </div>
+>>>>>>> c99af19919070547c81c52049628aadb82803905
         <div class="research">
             <h2>Tabela De Reservas</h2>
             <table>
@@ -185,6 +214,7 @@
                 </thead>
             </table>
         </div>
+<<<<<<< HEAD
 
         <script>
             const tamanhosSalas = {
@@ -375,5 +405,8 @@
             document.getElementById("NomeLocal").addEventListener("change", atualizarValor);
             document.getElementById("DiasAlugados").addEventListener("input", atualizarValor);
         </script>
+=======
+>>>>>>> c99af19919070547c81c52049628aadb82803905
     </body>
 </html>
+
