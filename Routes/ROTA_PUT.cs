@@ -15,6 +15,8 @@ public static class ROTA_PUT
                 return Results.NotFound("Reserva não encontrada.");
 
             refItem.Id = atualizada.Id;
+            refItem.Nome = atualizada.Nome;
+            refItem.Telefone = atualizada.Telefone;
             refItem.DataInicio = atualizada.DataInicio;
             refItem.DataFim = atualizada.DataFim;
             refItem.Tamanho = atualizada.Tamanho;
