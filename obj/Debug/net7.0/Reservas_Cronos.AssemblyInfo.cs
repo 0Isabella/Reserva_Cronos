@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reservas_Cronos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39c65a251f84e5cf368f09e25d9090c9750e8495")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85f4ea1f162b2dd9bde02d6c3607210278eff840")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reservas_Cronos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reservas_Cronos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

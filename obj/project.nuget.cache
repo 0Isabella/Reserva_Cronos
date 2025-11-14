@@ -1,12 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "2KggWE7qQS4=",
-=======
-  "dgSpecHash": "EGk8ZYSDWYu7S1E0MOWMFPkGZmYMPM2Y3rBYjl1olzwk4H+04lcWeO7LYLdLG4htycelqY1/13tQqyyWVT8I5A==",
->>>>>>> d5634aa3027687e4fdbefc8ec380556c4016c061
+  "dgSpecHash": "LaHf6p4ih9u0jgjhDHCZlMV9WMdaWXgFMWjbiYodS2QHpufTdhic4CnyuA9jcPmKRpSPG+fbwToN+cqNH5G6rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GUILHERMESWIATYIDOSS\\Documents\\GitHub\\Reserva_Cronos\\Reservas_Cronos.csproj",
+  "projectFilePath": "C:\\Users\\swiat\\Documents\\2.Faculdade\\3.Semestre\\Desenvolvimento de Software Visual\\Reserva_Cronos\\Reservas_Cronos.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\swiat\\Documents\\2.Faculdade\\3.Semestre\\Desenvolvimento de Software Visual\\Reserva_Cronos\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

@@ -8,5 +8,4 @@ app.MapGetRoutes();
 app.MapDeleteRoutes();
 app.MapPostRoutes();
 app.MapPutRoutes();
-
 app.Run();

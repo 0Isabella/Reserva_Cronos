@@ -84,3 +84,28 @@ C:\Users\GUILHERMESWIATYIDOSS\Documents\GitHub\Reserva_Cronos\obj\Debug\net7.0\R
 C:\Users\GUILHERMESWIATYIDOSS\Documents\GitHub\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.dll
 C:\Users\GUILHERMESWIATYIDOSS\Documents\GitHub\Reserva_Cronos\obj\Debug\net7.0\refint\Reservas_Cronos.dll
 C:\Users\GUILHERMESWIATYIDOSS\Documents\GitHub\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.pdb
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\bin\Debug\net7.0\appsettings.json
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\bin\Debug\net7.0\Reservas_Cronos.exe
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\bin\Debug\net7.0\Reservas_Cronos.deps.json
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\bin\Debug\net7.0\Reservas_Cronos.runtimeconfig.json
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\bin\Debug\net7.0\Reservas_Cronos.dll
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\bin\Debug\net7.0\Reservas_Cronos.pdb
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.AssemblyInfoInputs.cache
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.AssemblyInfo.cs
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.csproj.CoreCompileInputs.cache
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\staticwebassets\msbuild.Reservas_Cronos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\staticwebassets\msbuild.build.Reservas_Cronos.props
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Reservas_Cronos.props
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Reservas_Cronos.props
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\scopedcss\bundle\Reservas_Cronos.styles.css
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.dll
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\refint\Reservas_Cronos.dll
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.pdb
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.genruntimeconfig.cache
+C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\ref\Reservas_Cronos.dll
