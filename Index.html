@@ -88,38 +88,6 @@
             </table>
         </div>
 
-        <script>
-            //const API = "http://localhost:5092/api/livros"; precisa colocar o nosso localhost aqui
-
-            async function carregarReservas() {
-                const resposta = await fetch(API);
-                const reservas = await resposta.json();
-                mostrarReservas(reservas);
-            }
-
-    function mostrarReservas(reservas) {
-        const tabela = document.getElementById("tabelaReservas");
-        tabela.innerHTML = "";
-        reservas.forEach(reserva => {
-            const linha = document.createElement("tr");
-            linha.innerHTML = `
-            <td>
-                <span class="btn-edit" onclick="preencherFormulario('${reserva.id}', '${reserva.nome}', '${reserva.telefone}', ${reserva.data_inicio}, '${reserva.data_fim}', '${reserva.tamanho}', '${reserva.nome_local}', '${reserva.valor}', '${reserva.descricao}')">✏️</span>
-                <span class="btn-delete" onclick="excluirReserva(${reserva.id})">🗑️</span>
-            </td>
-            <td>${reserva.id}</td>
-            <td>${reserva.nome}</td>
-            <td>${reserva.telefone}</td>
-            <td>${reserva.data_inicio}</td>
-            <td>${reserva.data_fim}</td>
-            <td>${reserva.tamanho}</td>
-            <td>${reserva.nome_local}</td>
-            <td>${reserva.valor}</td>
-            <td>${reserva.descricao}</td>
-            `;
-            tabela.appendChild(linha);
-        });
-  }
-        </script>
+     
     </body>
 </html>
