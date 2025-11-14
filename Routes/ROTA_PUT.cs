@@ -1,29 +1,28 @@
-using System.Threading.Tasks;
 using CronosReserva.Models;
 
 namespace CronosReserva.Routes;
 
 public static class ROTA_PUT
 {
-    public static async Task MapPutRoutes(this WebApplication app)
+    public static void MapPutRoutes(this WebApplication app)
     {
-        app.MapPut("/reservas/{id}", (int id, Reserva input, ReservaContext context)) =>
+        List<Reserva> reservas = new List<Reserva>();
+
+        app.MapPut("/api/reservas/{id}", (int id, Reserva atualizada) =>
         {
-            var reserva = await context.Reservas.FindAsync(id);
-            if (reserva is null)
+            var refItem = reservas.FirstOrDefault(r => r.Id == id);
+            if (refItem is null)
                 return Results.NotFound("Reserva não encontrada.");
 
-            reserva.Id = input.Id;
-            reserva.DataInicio = input.DataInicio;
-            reserva.DataFim = input.DataFim;
-            reserva.Tamanho = input.Tamanho;
-            reserva.NomeLocal = input.NomeLocal;
-            reserva.Valor = input.Valor;
-            reserva.Descricao = input.Descricao;
+            refItem.Id = atualizada.Id;
+            refItem.DataInicio = atualizada.DataInicio;
+            refItem.DataFim = atualizada.DataFim;
+            refItem.Tamanho = atualizada.Tamanho;
+            refItem.NomeLocal = atualizada.NomeLocal;
+            refItem.Valor = atualizada.Valor;
+            refItem.Descricao = atualizada.Descricao;
 
-            await context.SaveChangeAsync();
-
-            return Results.Ok(reserva);
-        }
+            return Results.Ok(refItem);
+        });
     }
 }

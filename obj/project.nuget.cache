@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "2KggWE7qQS4=",
+=======
   "dgSpecHash": "EGk8ZYSDWYu7S1E0MOWMFPkGZmYMPM2Y3rBYjl1olzwk4H+04lcWeO7LYLdLG4htycelqY1/13tQqyyWVT8I5A==",
+>>>>>>> d5634aa3027687e4fdbefc8ec380556c4016c061
   "success": true,
   "projectFilePath": "C:\\Users\\GUILHERMESWIATYIDOSS\\Documents\\GitHub\\Reserva_Cronos\\Reservas_Cronos.csproj",
   "expectedPackageFiles": [],
