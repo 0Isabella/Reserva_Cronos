@@ -82,23 +82,21 @@
             <h1 class="boasvindas">Bem-vindo ao Reservas Cronos!</h1>
         </header>
 
-
+<!--CREATE-->
        <div class="cadastro">
         <h2>Nova Reserva</h2>
-
-        <input id="Id" placeholder="ID (gerado automaticamente)" readonly />
-
-        <input id="Nome" placeholder="Seu nome" />
-
-        <input id="Telefone" placeholder="Seu telefone" />
-
-        <input id="DataInicio" placeholder="Data do começo da reserva" type="date" />
-
-        <input id="DiasAlugados" placeholder="Quantidade de dias" type="number" min="1" />
-
-        <input id="Tamanho" placeholder="Tamanho" readonly />
-
-        <select id="NomeLocal">
+        <table>
+            <tr>
+                <td><input id="Id" placeholder="ID (gerado automaticamente)" readonly /></td>
+                <td> <input id="Nome" placeholder="Seu nome" /></td>
+                <td><input id="Telefone" placeholder="Seu telefone" /></td>
+                <td><input id="DataInicio" placeholder="Data do começo da reserva" type="date" /></td>
+                
+            </tr>
+            <tr>
+                <td><input id="DiasAlugados" placeholder="Quantidade de dias" type="number" min="1" /></td>
+                <td><input id="Tamanho" placeholder="Tamanho" readonly /></td>
+                <td><select id="NomeLocal">
             <option value="">Selecione a sala</option>
             <option>Salão Ouro Branco</option>
             <option>Espaço Bella Festa</option>
@@ -172,32 +170,39 @@
             <option>Salão Crystal Light</option>
             <option>Espaço Vale Encantado</option>
             <option>Salão Roma II</option>
-        </select>
-
-        <input id="Valor" placeholder="Valor total" readonly />
-
-        <textarea id="Descricao" placeholder="Descrição"></textarea>
-                <button class="btn-success" onclick="adicionarOuAtualizarReserva()">Confirar Reserva</button>
+                    </select></td>
+            </tr>
+            <tr>
+                <td><input id="Valor" placeholder="Valor total" readonly /></td>
+                <td><textarea id="Descricao" placeholder="Descrição"></textarea></td>
+                <td><button class="btn-success" onclick="adicionarOuAtualizarReserva()">Confirmar Reserva</button></td>
+            </tr>
+        </table>
         </div>
 
-
-            <div class="card">
+<!--BUSCAR-->
+        <div class="card">
             <h2>Buscar Referências</h2>
-            <input id="filtroId" placeholder="ID" type="number" />
-            <input id="filtroNome" placeholder="Nome" />
-            <input id="filtroTelefone" placeholder="Telefone" />
-            <input id="filtroDataInicio" placeholder="Ano" type="number" />
-            <input id="filtroDataFim" placeholder="Ano" type="number" />
-            <input id="filtroTamanho" placeholder="number" />
-            <input id="filtroNomeLocal" placeholder="local" />
-            <input id="filtroValor" placeholder="valor" type="number" />
-            <input id="filtroDescricao" placeholder="Descricao" />
-            
-            </select>
-            <button class="btn-primary" onclick="filtrarLivros()">Pesquisar</button>
-            <button class="btn-warning" onclick="limparFiltros()">Limpar</button>
+            <table>
+                <tr>
+                    <td><input id="filtroId" placeholder="ID" type="number" /></td>
+                    <td><input id="filtroNome" placeholder="Nome" /></td>
+                    <td><input id="filtroTelefone" placeholder="Telefone" /></td>                   
+                    
+                </tr>
+                <tr>
+                    <td><input id="filtroTamanho" placeholder="Tamanho" /></td>
+                    <td><input id="filtroNomeLocal" placeholder="Nome do Local" /></td>
+                   <td><input id="filtroDescricao" placeholder="Descricao" /></td>
+                </tr>
+                <tr>
+                    <td><button class="btn-primary" onclick="filtrarLivros()">Pesquisar</button></td>
+                    <td><button class="btn-warning" onclick="limparFiltros()">Limpar</button></td>
+                </tr>
+            </table>
         </div>
 
+        <!--PESQUISA-->
         <div class="research">
             <h2>Tabela De Reservas</h2>
             <table>
@@ -212,13 +217,18 @@
                     <th>Descrição</th>
                   </tr>  
                 </thead>
+            <tbody id="">
+                
+            </tbody>
+
             </table>
         </div>
 
-
+<!--Java Script-->
         <script>
 
             // Para que cada sala esteja automaticamente relacionada com o seu tamanho adequado
+
             const tamanhosSalas = {
                 "Salão Ouro Branco": "Pequeno",
                 "Espaço Bella Festa": "Medio",
