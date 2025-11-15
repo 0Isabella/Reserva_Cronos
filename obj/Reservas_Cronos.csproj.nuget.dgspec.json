@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Uuario\\Reserva_Cronos\\Reservas_Cronos.csproj": {}
+    "D:\\Terceiro Semestre\\Desenvolvimento de Software Visual\\ReservasCronos\\Reserva_Cronos\\Reservas_Cronos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Uuario\\Reserva_Cronos\\Reservas_Cronos.csproj": {
+    "D:\\Terceiro Semestre\\Desenvolvimento de Software Visual\\ReservasCronos\\Reserva_Cronos\\Reservas_Cronos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Uuario\\Reserva_Cronos\\Reservas_Cronos.csproj",
+        "projectUniqueName": "D:\\Terceiro Semestre\\Desenvolvimento de Software Visual\\ReservasCronos\\Reserva_Cronos\\Reservas_Cronos.csproj",
         "projectName": "Reservas_Cronos",
-        "projectPath": "C:\\Users\\Uuario\\Reserva_Cronos\\Reservas_Cronos.csproj",
-        "packagesPath": "C:\\Users\\Uuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Uuario\\Reserva_Cronos\\obj\\",
+        "projectPath": "D:\\Terceiro Semestre\\Desenvolvimento de Software Visual\\ReservasCronos\\Reserva_Cronos\\Reservas_Cronos.csproj",
+        "packagesPath": "C:\\Users\\0isam\\.nuget\\packages\\",
+        "outputPath": "D:\\Terceiro Semestre\\Desenvolvimento de Software Visual\\ReservasCronos\\Reserva_Cronos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Uuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\0isam\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -56,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
