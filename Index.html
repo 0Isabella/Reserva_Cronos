@@ -217,6 +217,8 @@
 
 
         <script>
+
+            // Para que cada sala esteja automaticamente relacionada com o seu tamanho adequado
             const tamanhosSalas = {
                 "Salão Ouro Branco": "Pequeno",
                 "Espaço Bella Festa": "Medio",
@@ -292,23 +294,26 @@
                 "Salão Roma II": "Pequeno"
             };
 
+            // Para que os tamanhos estejam com o valor da diaria de cada
             const precoPorTamanho = {
                 "Pequeno": 800,
                 "Medio": 1200,
                 "Grande": 1800
             };
 
+            // Função para calcular o valor da reserva de forma automática
             function calcularValor() {
-                const sala = document.getElementById("NomeLocal").value;
-                const dias = parseInt(document.getElementById("DiasAlugados").value);
-                if (!sala || !dias) return 0;
+                const sala = document.getElementById("NomeLocal").value; // Pega a sala *logo, a informação do tamanho/ preço
+                const dias = parseInt(document.getElementById("DiasAlugados").value); // Pega a quantidade de dias
+                if (!sala || !dias) return 0; // Evitar erros (Se não houver sala ou estiver alugado por "0" dias)
 
                 const tamanho = tamanhosSalas[sala];
                 const valorDia = precoPorTamanho[tamanho];
 
-                return valorDia * dias;
+                return valorDia * dias; // Calcular o valor
             };
 
+            // Para que cada sala esteja automaticamente relacionada com a desccrição adequada
             const descricoesSalas = {
                 "Salão Ouro Branco": "Salão amplo com capacidade para 200 pessoas e climatização completa",
                 "Espaço Bella Festa": "Ambiente moderno com iluminação de LED e pista de dança",
@@ -384,26 +389,29 @@
                 "Salão Roma II": "Espaço clássico inspirado em arquitetura italiana"
             };
 
-            
-            document.getElementById("NomeLocal").addEventListener("change", function () {
+            // Adiciona um evento para quando a seleção do local for alterada
+            document.getElementById("NomeLocal").addEventListener("mudar", function () {
 
-                const sala = this.value;
+                const sala = this.value; // Pega o valor da sala escolhida
 
-                const tamanho = tamanhosSalas[sala];
-                document.getElementById("Tamanho").value = tamanho || "";
+                // Atualiza o campo Tamanho com base na sala escolhida
+                const tamanho = tamanhosSalas[sala]; // Busca o tamanho
+                document.getElementById("Tamanho").value = tamanho || ""; // Preenche o campo, menos se não encontrar (deixará vazio)  
 
-                const descricao = descricoesSalas[sala];
-                document.getElementById("Descricao").value = descricao || "";    
+                const descricao = descricoesSalas[sala]; // Busca a descrição
+                document.getElementById("Descricao").value = descricao || "";  // Preenche o campo, menos se não encontrar (deixará vazio)  
             });
             
+            // Só para deixar bonitinho, que o valor seja em reais
             function atualizarValor() {
             const valor = calcularValor();
                 document.getElementById("Valor").value = 
                     valor.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
             }
 
-            document.getElementById("NomeLocal").addEventListener("change", atualizarValor);
-            document.getElementById("DiasAlugados").addEventListener("input", atualizarValor);
+            document.getElementById("NomeLocal").addEventListener("mudar", atualizarValor); // Aciona a função atualizarValor sempre que o usuário mudar o salão (na tabela de cadastro)
+            document.getElementById("DiasAlugados").addEventListener("input", atualizarValor); // Aciona a função atualizarValor sempre que o usuário mudar a quantidade de dias alugados (na tabela de cadastro)
+    
         </script>
 
     </body>
