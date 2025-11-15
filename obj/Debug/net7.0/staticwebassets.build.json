@@ -1,11 +1,54 @@
 {
   "Version": 1,
-  "Hash": "k0ZDm6rUP+mLThTLOj9KxT7WvZ5cGsTPb+PliAacYRA=",
+  "Hash": "etPWaFdPhVAI7bPiBELh40fzxPYzlJ6WnZn5qzhfiLo=",
   "Source": "Reservas_Cronos",
   "BasePath": "_content/Reservas_Cronos",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Reservas_Cronos\\wwwroot",
+      "Source": "Reservas_Cronos",
+      "ContentRoot": "C:\\Users\\Uuario\\Reserva_Cronos\\wwwroot\\",
+      "BasePath": "_content/Reservas_Cronos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Uuario\\Reserva_Cronos\\wwwroot\\imagem\\Logo Cronos.jpeg",
+      "SourceId": "Reservas_Cronos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Uuario\\Reserva_Cronos\\wwwroot\\",
+      "BasePath": "_content/Reservas_Cronos",
+      "RelativePath": "imagem/Logo Cronos.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagem\\Logo Cronos.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Uuario\\Reserva_Cronos\\wwwroot\\Index.html",
+      "SourceId": "Reservas_Cronos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Uuario\\Reserva_Cronos\\wwwroot\\",
+      "BasePath": "_content/Reservas_Cronos",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ]
 }

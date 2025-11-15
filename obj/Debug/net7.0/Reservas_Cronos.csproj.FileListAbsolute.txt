@@ -109,3 +109,29 @@ C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visu
 C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.pdb
 C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.genruntimeconfig.cache
 C:\Users\swiat\Documents\2.Faculdade\3.Semestre\Desenvolvimento de Software Visual\Reserva_Cronos\obj\Debug\net7.0\ref\Reservas_Cronos.dll
+C:\Users\Uuario\Reserva_Cronos\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Uuario\Reserva_Cronos\bin\Debug\net7.0\appsettings.json
+C:\Users\Uuario\Reserva_Cronos\bin\Debug\net7.0\Reservas_Cronos.exe
+C:\Users\Uuario\Reserva_Cronos\bin\Debug\net7.0\Reservas_Cronos.deps.json
+C:\Users\Uuario\Reserva_Cronos\bin\Debug\net7.0\Reservas_Cronos.runtimeconfig.json
+C:\Users\Uuario\Reserva_Cronos\bin\Debug\net7.0\Reservas_Cronos.dll
+C:\Users\Uuario\Reserva_Cronos\bin\Debug\net7.0\Reservas_Cronos.pdb
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.AssemblyInfoInputs.cache
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.AssemblyInfo.cs
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.csproj.CoreCompileInputs.cache
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\staticwebassets\msbuild.Reservas_Cronos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\staticwebassets\msbuild.build.Reservas_Cronos.props
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Reservas_Cronos.props
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Reservas_Cronos.props
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\scopedcss\bundle\Reservas_Cronos.styles.css
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.dll
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\refint\Reservas_Cronos.dll
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.pdb
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\Reservas_Cronos.genruntimeconfig.cache
+C:\Users\Uuario\Reserva_Cronos\obj\Debug\net7.0\ref\Reservas_Cronos.dll
+C:\Users\Uuario\Reserva_Cronos\bin\Debug\net7.0\Reservas_Cronos.staticwebassets.runtime.json
